@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(159, 50, 255);
+}
+
+.app{
+  display: flex;
+  margin-top: 10vh;
+}
+
+
+li{
+  margin-top: 5vh;
+  margin-left: 20vh;
+  list-style: none;
+  width: 80vh;
+}
+
+.card{
+  background-color: rgb(135, 191, 240);
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2vh;
+}
